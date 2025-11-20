@@ -6,12 +6,18 @@
     "ReplicatedStorage": {
       "Shared": {
         "$path": "src/shared"
+      },
+      "Packages":{
+        "$path": "Packages"
       }
     },
 
     "ServerScriptService": {
       "Server": {
         "$path": "src/server"
+      },
+      "ServerPackages":{
+        "$path":"ServerPackages"
       }
     },
 
@@ -24,6 +30,9 @@
     },
 
     "Workspace": {
+      "Test":{
+        "$path": "src/Workspace_Stuff"
+      },
       "$properties": {
         "FilteringEnabled": true
       },
@@ -32,9 +41,9 @@
         "$properties": {
           "Anchored": true,
           "Color": [
-            0.38823,
-            0.37254,
-            0.38823
+            100,
+            200,
+            400
           ],
           "Locked": true,
           "Position": [

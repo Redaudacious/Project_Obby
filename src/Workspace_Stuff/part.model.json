@@ -1,0 +1,16 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "test part",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [4, 4, 4]
+      }
+    },
+    {
+      "Name": "SendMoney",
+      "ClassName": "RemoteEvent"
+    }
+  ]
+}
