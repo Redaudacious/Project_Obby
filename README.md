@@ -17,14 +17,14 @@ A Roblox project using modern development tools like Rojo, Wally, and Rokit.
 
 Run these commands in your project folder:
 
-rokit init
-rokit add rojo
-rojo init
-rokit add wally
-rokit add wally-package-types
-wally init
-wally install
-wally-package-types -s sourcemap.json Packages/
+- rokit init
+- rokit add rojo- 
+- rojo init
+- rokit add wally
+- rokit add wally-package-types
+- wally init
+- wally install
+- wally-package-types -s sourcemap.json Packages/
 
 ## Development
 
