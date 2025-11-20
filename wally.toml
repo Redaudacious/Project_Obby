@@ -1,0 +1,14 @@
+[package]
+name = "armabear-studios/project-obby"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+
+[dependencies]
+Knit = "sleitnick/knit@1.7.0"
+Promise = "evaera/promise@4.0.0"
+Janitor = "howmanysmall/janitor@1.18.3"
+
+[server-dependencies]
+Cmdr = "evaera/cmdr@1.12.0"
