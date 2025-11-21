@@ -13,7 +13,7 @@ A Roblox project using modern development tools like Rojo, Wally, and Rokit.
 ### Required Tools
 - Install Rokit: https://github.com/rojo-rbx/rokit
 
-## First-Time Setup
+## First-Time Setup if you are making your own project
 
 Run these commands in your project folder:
 

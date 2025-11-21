@@ -5,7 +5,13 @@
 
     "ReplicatedStorage": {
       "Shared": {
-        "$path": "src/shared"
+        "$path": "src/shared",
+        "Types": { 
+          "$path": "src/shared/Types"
+        },
+        "Config": { 
+          "$path": "src/shared/Config"
+        }
       },
       "Packages":{
         "$path": "Packages"
@@ -18,6 +24,12 @@
       },
       "ServerPackages":{
         "$path":"ServerPackages"
+      },
+      "Knit":{
+        "$path": "src/server/Knit",
+        "Services":{
+          "$path": "src/server/Knit/Services"
+        }
       }
     },
 
@@ -25,7 +37,20 @@
       "StarterPlayerScripts": {
         "Client": {
           "$path": "src/client"
+        },
+        "Knit":{
+          "$path": "src/client/Knit",
+          "Controllers":{
+            "$path": "src/client/Knit/Controllers"
+          }
         }
+      }
+    },
+
+    "StarterGui" :{
+      "$path": "src/StarterGui",
+      "ScreenGui": {
+        "$path": "src/StarterGui/ScreenGui"
       }
     },
 

@@ -86,27 +86,27 @@
 		<Item class="Camera" referent="RBX0CA4B2C903644F2887286ACEE0D2516E">
 			<Properties>
 				<CoordinateFrame name="CFrame">
-					<X>0.823913574</X>
-					<Y>10.6315775</Y>
-					<Z>32.8717003</Z>
-					<R00>0.153003931</R00>
-					<R01>-0.250052273</R01>
-					<R02>0.956066847</R02>
-					<R10>-0</R10>
-					<R11>0.967458189</R11>
-					<R12>0.253031552</R12>
-					<R20>-0.988225639</R20>
-					<R21>-0.0387148224</R21>
-					<R22>0.148024887</R22>
+					<X>71.6060104</X>
+					<Y>148.112183</Y>
+					<Z>210.551941</Z>
+					<R00>0.999608994</R00>
+					<R01>0.0194432437</R01>
+					<R02>-0.0200957973</R02>
+					<R10>9.31322575e-10</R10>
+					<R11>0.718679011</R11>
+					<R12>0.695342004</R12>
+					<R20>0.0279621296</R20>
+					<R21>-0.695070148</R21>
+					<R22>0.718398035</R22>
 				</CoordinateFrame>
 				<Ref name="CameraSubject">null</Ref>
 				<token name="CameraType">0</token>
 				<float name="FieldOfView">70</float>
 				<token name="FieldOfViewMode">0</token>
 				<CoordinateFrame name="Focus">
-					<X>-1.08820343</X>
-					<Y>10.1255188</Y>
-					<Z>32.5756531</Z>
+					<X>71.6462021</X>
+					<Y>146.721497</Y>
+					<Z>209.115143</Z>
 					<R00>1</R00>
 					<R01>0</R01>
 					<R02>0</R02>
@@ -990,6 +990,66 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 					<BinaryString name="Tags"></BinaryString>
 					<UniqueId name="UniqueId">44308cb1913b0b6709311adc0000039b</UniqueId>
 				</Properties>
+				<Item class="Folder" referent="RBX9D618224D8E74D22951CDDDF0EE60889">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+						<string name="Name">Knit</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"></BinaryString>
+						<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000fbe</UniqueId>
+					</Properties>
+					<Item class="Folder" referent="RBXAFFFB0E955AF41BC87C0781B04219CAA">
+						<Properties>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+							<string name="Name">Controllers</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"></BinaryString>
+							<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000fbf</UniqueId>
+						</Properties>
+					</Item>
+				</Item>
+			</Item>
+			<Item class="Folder" referent="RBXC4E4F4FE3E6A4375A044205BEED3CD13">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+					<string name="Name">Knit</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ef8</UniqueId>
+				</Properties>
+				<Item class="Folder" referent="RBX1B6D016D0DC04896BD7A308AE74482D8">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+						<string name="Name">Controllers</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"></BinaryString>
+						<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000efa</UniqueId>
+					</Properties>
+				</Item>
+				<Item class="Folder" referent="RBXBAF1FCC7AAC74F508D59011DFBBFF2F1">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+						<string name="Name">Controllers</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"></BinaryString>
+						<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000fc1</UniqueId>
+					</Properties>
+				</Item>
 			</Item>
 		</Item>
 		<Item class="StarterCharacterScripts" referent="RBX2ED3C85612E54FBE8D63329AA850A088">
@@ -1035,6 +1095,18 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 			<BinaryString name="Tags"></BinaryString>
 			<UniqueId name="UniqueId">44308cb1913b0b6709311adc00000350</UniqueId>
 		</Properties>
+		<Item class="Folder" referent="RBX3499CED9B5E9489392E52D5B09254E85">
+			<Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+				<string name="Name">ScreenGui</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000fb6</UniqueId>
+			</Properties>
+		</Item>
 	</Item>
 	<Item class="LocalizationService" referent="RBX1A8E7B60F707495A9E2CBCE1C1A255A2">
 		<Properties>
@@ -1300,6 +1372,18 @@ end
 					<int64 name="SourceAssetId">-1</int64>
 					<BinaryString name="Tags"></BinaryString>
 					<UniqueId name="UniqueId">44308cb1913b0b6709311adc00000397</UniqueId>
+				</Properties>
+			</Item>
+			<Item class="Folder" referent="RBX4A3DB85C581F4B4BA25774B778987826">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+					<string name="Name">Types</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000eeb</UniqueId>
 				</Properties>
 			</Item>
 		</Item>
@@ -11948,6 +12032,2645 @@ end
 						</Item>
 					</Item>
 				</Item>
+				<Item class="Folder" referent="RBX6996C04FD2AE44D181F397E614342F69">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+						<string name="Name">matter-ecs_plasma@0.4.4</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"></BinaryString>
+						<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000eb1</UniqueId>
+					</Properties>
+					<Item class="ModuleScript" referent="RBXA7524B0AAE464BC99A94183AEA04351D">
+						<Properties>
+							<Content name="LinkedSource"><null></null></Content>
+							<ProtectedString name="Source"><![CDATA[--- @class Plasma
+
+local Runtime = require(script.Runtime)
+local Style = require(script.Style)
+
+return {
+	new = Runtime.new,
+	start = Runtime.start,
+	continueFrame = Runtime.continueFrame,
+	beginFrame = Runtime.beginFrame,
+	finishFrame = Runtime.finishFrame,
+	scope = Runtime.scope,
+	widget = Runtime.widget,
+	useState = Runtime.useState,
+	useInstance = Runtime.useInstance,
+	useEffect = Runtime.useEffect,
+	useKey = Runtime.useKey,
+	setEventCallback = Runtime.setEventCallback,
+	createContext = Runtime.createContext,
+	useContext = Runtime.useContext,
+	provideContext = Runtime.provideContext,
+
+	useStyle = Style.get,
+	setStyle = Style.set,
+
+	automaticSize = require(script.automaticSize),
+	hydrateAutomaticSize = require(script.hydrateAutomaticSize),
+	create = require(script.create),
+
+	window = require(script.widgets.window),
+	button = require(script.widgets.button),
+	portal = require(script.widgets.portal),
+	blur = require(script.widgets.blur),
+	row = require(script.widgets.row),
+	spinner = require(script.widgets.spinner),
+	checkbox = require(script.widgets.checkbox),
+	arrow = require(script.widgets.arrow),
+	heading = require(script.widgets.heading),
+	label = require(script.widgets.label),
+	slider = require(script.widgets.slider),
+	space = require(script.widgets.space),
+	table = require(script.widgets.table),
+	highlight = require(script.widgets.highlight),
+}
+]]></ProtectedString>
+							<string name="ScriptGuid">{3BEE6ED9-F805-404C-BA44-CFF79C85BDAD}</string>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+							<string name="Name">plasma</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"></BinaryString>
+							<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000eb2</UniqueId>
+						</Properties>
+						<Item class="ModuleScript" referent="RBXA693BCD7AA2148398130A6D401A53276">
+							<Properties>
+								<Content name="LinkedSource"><null></null></Content>
+								<ProtectedString name="Source"><![CDATA[type EventCallback = (Instance, string, (...any) -> ()) -> ()
+
+type Node = {
+	instance: Instance?,
+	refs: { [any]: Instance }?,
+	containerInstance: Instance?,
+	effects: {
+		[TopoKey]: {
+			lastDependencies: { any }?,
+			lastDependenciesLength: number,
+			destructor: (() -> ())?,
+		},
+	},
+	states: { [TopoKey]: any },
+	children: { [TopoKey]: Node },
+	generation: number,
+	eventCallback: EventCallback?,
+}
+
+type TopoKey = string
+
+type StackFrame = {
+	node: Node,
+	contextValues: {
+		[any]: any,
+	},
+	childrenCount: number,
+	effectCounts: { [TopoKey]: number },
+	stateCounts: { [TopoKey]: number },
+	childCounts: { [TopoKey]: number },
+	discriminator: string | number,
+}
+
+local stack: { StackFrame } = {}
+
+local recentErrors = {}
+local recentErrorLastTime = 0
+
+local function newNode(state: {}): Node
+	if state == nil then
+		state = {}
+	end
+
+	return {
+		instance = nil,
+		containerInstance = nil,
+		effects = {},
+		states = {},
+		children = {},
+		generation = 0,
+	}
+end
+
+local function destroyNode(node: Node)
+	if node.instance ~= nil then
+		node.instance:Destroy()
+	end
+
+	for _, effect in pairs(node.effects) do
+		if effect.destructor ~= nil then
+			effect.destructor()
+		end
+	end
+
+	for _, child in pairs(node.children) do
+		destroyNode(child)
+	end
+end
+
+local function newStackFrame(node: Node): StackFrame
+	return {
+		node = node,
+		contextValues = {},
+		childrenCount = 0,
+		effectCounts = {},
+		stateCounts = {},
+		childCounts = {},
+	}
+end
+
+local Runtime = {}
+
+--[=[
+	@within Plasma
+	@param rootInstance Instance -- The root instance of which to mount all children. Likely a ScreenGui.
+	@return Node -- An opaque object which holds persistent state about your UI.
+]=]
+function Runtime.new(rootInstance: Instance): Node
+	local node = newNode()
+	node.instance = rootInstance
+	return node
+end
+
+--[=[
+	@within Plasma
+	@param name string -- The human-readable name of the context. This is only for debug purposes.
+	@return Context -- An opqaue Context object which holds persistent state.
+
+	Creates a [Context] object which is used to pass state downwards through the tree without needing to thread it
+	through every child as props.
+]=]
+function Runtime.createContext(name: string)
+	local fullName = string.format("PlasmaContext(%s)", name)
+	return setmetatable({}, {
+		__tostring = function()
+			return fullName
+		end,
+	})
+end
+
+--[=[
+	@within Plasma
+	@param context Context -- A context object previously created with `createContext`
+	@return T
+	@tag hooks
+
+	Returns the value of this context provided by the most recent ancestor that used `provideContext` with this context.
+]=]
+function Runtime.useContext(context)
+	for i = #stack - 1, 1, -1 do
+		local frame = stack[i]
+
+		if frame.contextValues[context] ~= nil then
+			return frame.contextValues[context]
+		end
+	end
+
+	return nil
+end
+
+--[=[
+	@within Plasma
+	@param context Context -- A context object previously created with `createContext`
+	@param value T -- Any value you want to provide for this context
+
+	Provides a value for this context for any subsequent uses of `useContext` in this scope.
+]=]
+function Runtime.provideContext(context, value)
+	local frame = stack[#stack]
+	frame.contextValues[context] = value
+end
+
+--[=[
+	@within Plasma
+	@param callback () -> () | () -> () -> () -- A callback function that optionally returns a cleanup function
+	@param ... any -- Dependencies
+	@tag hooks
+
+	`useEffect` takes a callback as a parameter which is then only invoked if passed dependencies are different from the
+	last time this function was called. The callback is always invoked the first time this code path is reached.
+
+	If no dependencies are passed, the callback only runs once.
+
+	This function can be used to skip expensive work if none of the dependencies have changed since the last run.
+	For example, you might use this to set a bunch of properties in a widget if any of the inputs change.
+]=]
+function Runtime.useEffect(callback: () -> () | () -> () -> (), ...)
+	local frame = stack[#stack]
+	local effects = frame.node.effects
+
+	local file = debug.info(2, "s")
+	local line = debug.info(2, "l")
+	local baseKey = string.format("%s:%s:%d", tostring(frame.discriminator) or "", file, line)
+
+	frame.effectCounts[baseKey] = (frame.effectCounts[baseKey] or 0) + 1
+	local key = string.format("%s:%d", baseKey, frame.effectCounts[baseKey])
+
+	local existing = effects[key]
+	local gottaRunIt = existing == nil -- We ain't never run this before!
+		or select("#", ...) ~= existing.lastDependenciesLength -- I have altered the dependencies. Pray that I do not alter them further.
+
+	if not gottaRunIt then
+		for i = 1, select("#", ...) do
+			if select(i, ...) ~= existing.lastDependencies[i] then
+				gottaRunIt = true
+				break
+			end
+		end
+	end
+
+	if gottaRunIt then
+		if existing ~= nil and existing.destructor ~= nil then
+			existing.destructor()
+		end
+
+		effects[key] = {
+			destructor = callback(),
+			lastDependencies = { ... },
+			lastDependenciesLength = select("#", ...),
+		}
+	end
+end
+
+--[=[
+	@within Plasma
+	@param initialValue T -- The value this hook returns if the set callback has never been called
+	@return T -- The previously set value, or the initial value if none has been set
+	@return (newValue: T) -> () -- A function which when called stores the value in this hook for the next run
+	@tag hooks
+
+	```lua
+	local checked, setChecked = useState(false)
+
+	useInstance(function()
+		local TextButton = Instance.new("TextButton")
+
+		TextButton.Activated:Connect(function()
+			setChecked(not checked)
+		end)
+
+		return TextButton
+	end)
+
+	TextButton.Text = if checked then "X" else ""
+	```
+]=]
+function Runtime.useState<T>(initialValue: T): T
+	local frame = stack[#stack]
+	local states = frame.node.states
+
+	local file = debug.info(2, "s")
+	local line = debug.info(2, "l")
+	local baseKey = string.format("%s:%s:%d", tostring(frame.discriminator) or "", file, line)
+	frame.stateCounts[baseKey] = (frame.stateCounts[baseKey] or 0) + 1
+	local key = string.format("%s:%d", baseKey, frame.stateCounts[baseKey])
+
+	local existing = states[key]
+	if existing == nil then
+		states[key] = initialValue
+	end
+
+	local function setter(newValue)
+		if type(newValue) == "function" then
+			newValue = newValue(states[key])
+		end
+
+		states[key] = newValue
+	end
+
+	return states[key], setter
+end
+
+--[=[
+	@within Plasma
+	@param key
+
+	Specify a key by which to store all future state in this scope. This is similar to React's `key` prop.
+
+	This is important to use to prevent state from one source being still being applied when it should actually reset.
+]=]
+function Runtime.useKey(key: string | number)
+	local frame = stack[#stack]
+
+	frame.discriminator = key
+end
+
+--[=[
+	@within Plasma
+	@param creator (ref: {}) -> (Instance, Instance?) -- A callback which creates the widget and returns it
+	@return Instance -- Returns the instance returned by `creator`
+	@tag hooks
+
+	`useInstance` takes a callback which should be used to create the initial UI for the widget.
+	The callback is only ever invoked on the first time this widget runs and never again.
+	The callback should return the instance it created.
+	The callback can optionally return a second value, which is the instance where children of this widget should be
+	placed. Otherwise, children are placed in the first instance returned.
+
+	`useInstance` returns the `ref` table that is passed to it. You can use this to create references to objects
+	you want to update in the widget body.
+]=]
+function Runtime.useInstance(creator: () -> Instance): Instance
+	local node = stack[#stack].node
+	local parentFrame = Runtime.nearestStackFrameWithInstance()
+
+	if node.instance == nil then
+		local parent = parentFrame.node.containerInstance or parentFrame.node.instance
+
+		node.refs = {}
+		local instance, container = creator(node.refs)
+
+		if instance ~= nil then
+			instance.Parent = parent
+			node.instance = instance
+		end
+
+		if container ~= nil then
+			node.containerInstance = container
+		end
+	end
+
+	if node.instance ~= nil and node.instance:IsA("GuiObject") then
+		parentFrame.childrenCount += 1
+		node.instance.LayoutOrder = parentFrame.childrenCount
+	end
+
+	return node.refs
+end
+
+function Runtime.nearestStackFrameWithInstance(): StackFrame?
+	for i = #stack - 1, 1, -1 do
+		local frame = stack[i]
+
+		if frame.node.containerInstance ~= nil or frame.node.instance ~= nil then
+			return frame
+		end
+	end
+
+	return nil
+end
+
+local function scope(level, scopeKey, fn, ...)
+	local parentFrame = stack[#stack]
+	local parentNode = parentFrame.node
+
+	local file = debug.info(1 + level, "s")
+	local line = debug.info(1 + level, "l")
+	local baseKey = string.format("%s:%s:%s:%d", scopeKey, tostring(parentFrame.discriminator) or "", file, line)
+
+	parentFrame.childCounts[baseKey] = (parentFrame.childCounts[baseKey] or 0) + 1
+	local key = string.format("%s:%d", baseKey, parentFrame.childCounts[baseKey])
+
+	local currentNode = parentNode.children[key]
+
+	if currentNode == nil then
+		currentNode = newNode()
+		parentNode.children[key] = currentNode
+	end
+
+	currentNode.generation = parentNode.generation
+
+	table.insert(stack, newStackFrame(currentNode))
+	local thread = coroutine.create(fn)
+
+	local success, widgetHandle = coroutine.resume(thread, ...)
+
+	if coroutine.status(thread) ~= "dead" then
+		success = false
+		widgetHandle =
+			"Plasma: Handler passed to Plasma.start yielded! Yielding is not allowed and the handler thread has been closed."
+
+		coroutine.close(thread)
+	end
+
+	if not success then
+		if os.clock() - recentErrorLastTime > 10 then
+			recentErrorLastTime = os.clock()
+			recentErrors = {}
+		end
+
+		local errorValue = debug.traceback(thread, tostring(widgetHandle))
+
+		if not recentErrors[errorValue] then
+			task.spawn(error, tostring(errorValue))
+			warn("Plasma: The above error will be suppressed for the next 10 seconds")
+			recentErrors[errorValue] = true
+		end
+
+		local errorWidget = require(script.Parent.widgets.error)
+
+		errorWidget(tostring(errorValue))
+	end
+
+	table.remove(stack)
+
+	for childKey, childNode in pairs(currentNode.children) do
+		if childNode.generation ~= currentNode.generation then
+			destroyNode(childNode)
+			currentNode.children[childKey] = nil
+		end
+	end
+
+	return widgetHandle
+end
+
+--[=[
+	@within Plasma
+	@param rootNode Node -- A node created by `Plasma.new`.
+	@param fn (...: T) -> ()
+	@param ... T -- Additional parameters to `callback`
+
+	Begins a new frame for this Plasma instance. The `callback` is invoked immediately.
+	Code run in the `callback` function that uses plasma APIs will be associated with this Plasma node.
+	The `callback` function is **not allowed to yield**.
+
+	If this function is used, `Plasma.beginFrame`, `Plasma.continueFrame`, and `Plasma.finishFrame` should not be used.
+]=]
+function Runtime.start(rootNode: Node, fn, ...)
+	Runtime.beginFrame(rootNode, fn, ...)
+
+	Runtime.finishFrame(rootNode)
+end
+
+--[=[
+	@within Plasma
+	@param rootNode Node -- A node created by `Plasma.new`.
+	@param fn (...: T) -> ()
+	@param ... T -- Additional parameters to `callback`
+	@return ContinueHandle -- A handle to pass to `continueFrame`
+
+	Begins a *continuable* Plasma frame. Same semantics as [Plasma.start].
+
+	For a frame:
+	- Call `beginFrame` once.
+	- Call `continueFrame` any number of times.
+	- Call `finishFrame` when the frame is complete.
+
+	If this function is used, `Plasma.start` should not be used.
+]=]
+function Runtime.beginFrame(rootNode: Node, fn, ...)
+	if #stack > 0 then
+		error("Runtime.start cannot be called while Runtime.start is already running", 2)
+	end
+
+	debug.profilebegin("Plasma")
+
+	if rootNode.generation == 0 then
+		rootNode.generation = 1
+	else
+		rootNode.generation = 0
+	end
+
+	stack[1] = newStackFrame(rootNode)
+	scope(2, "root", fn, ...)
+	local continueHandle = table.remove(stack)
+
+	debug.profileend()
+
+	return continueHandle
+end
+
+--[=[
+	Finishes a continuable Plasma frame, cleaning up any objects that have been removed since the last frame.
+	@within Plasma
+	@param rootNode Node -- A node created by `Plasma.new`.
+]=]
+function Runtime.finishFrame(rootNode: Node)
+	for childKey, childNode in pairs(rootNode.children) do
+		if childNode.generation ~= rootNode.generation then
+			destroyNode(childNode)
+			rootNode.children[childKey] = nil
+		end
+	end
+end
+
+--[=[
+	Continue the Plasma frame with a new handler function. Calling this will not trigger any cleanup that typically
+	happens every frame.
+
+	This is intended to be used to continue creating UI within the same frame that you started on. You should call
+	[Plasma.beginFrame] once per frame, then `Plasma.continueFrame` any number of times after that, finally calling
+	[Plasma.finishFrame].
+
+	@within Plasma
+	@param continueHandle ContinueHandle -- An object returned by Plasma.start
+	@param fn (...: T) -> ()
+	@param ... T -- Additional parameters to `callback`
+]=]
+function Runtime.continueFrame(continueHandle, fn, ...)
+	if #stack > 0 then
+		error("Runtime.continue cannot be called while Runtime.start is already running", 2)
+	end
+
+	stack[1] = continueHandle
+
+	scope(2, "root", fn, ...)
+
+	table.remove(stack)
+end
+
+--[=[
+	@within Plasma
+	@param fn (...: T) -> ()
+	@param ... T -- Additional parameters to `callback`
+
+	Begins a new scope. This function may only be called within a `Plasma.start` callback.
+	The `callback` is invoked immediately.
+
+	Beginning a new scope associates all further calls to Plasma APIs with a nested scope inside this one.
+]=]
+function Runtime.scope(fn, ...)
+	return scope(2, "", fn, ...)
+end
+
+--[=[
+	@within Plasma
+	@param fn (...: T) -> () -- The widget function
+	@return (...: T) -> () -- A function which can be called to create the widget
+
+	This function takes a widget function and returns a function that automatically starts a new scope when the function
+	is called.
+]=]
+function Runtime.widget(fn)
+	local file, line = debug.info(2, "sl")
+	local scopeKey = string.format("%s+%d", file, line)
+
+	return function(...)
+		return scope(2, scopeKey, fn, ...)
+	end
+end
+
+function Runtime.setEventCallback(callback: EventCallback)
+	stack[1].node.eventCallback = callback
+end
+
+function Runtime.useEventCallback(): EventCallback?
+	local frame = stack[1]
+
+	if not frame then
+		return nil
+	end
+
+	return frame.node.eventCallback
+end
+
+return Runtime
+]]></ProtectedString>
+								<string name="ScriptGuid">{04C93401-6272-4232-983E-05977861B2FA}</string>
+								<BinaryString name="AttributesSerialize"></BinaryString>
+								<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+								<bool name="DefinesCapabilities">false</bool>
+								<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+								<string name="Name">Runtime</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"></BinaryString>
+								<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000eb3</UniqueId>
+							</Properties>
+						</Item>
+						<Item class="ModuleScript" referent="RBXB9397B7F7CC54DA9A806DF14CDC5988F">
+							<Properties>
+								<Content name="LinkedSource"><null></null></Content>
+								<ProtectedString name="Source"><![CDATA[local Runtime = require(script.Parent.Runtime)
+
+local ContextKey = Runtime.createContext("Style")
+
+local defaultStyle = {
+	bg1 = Color3.fromRGB(31, 31, 31),
+	bg2 = Color3.fromRGB(42, 42, 42),
+	bg3 = Color3.fromRGB(54, 54, 54),
+	mutedTextColor = Color3.fromRGB(147, 147, 147),
+	textColor = Color3.fromRGB(255, 255, 255),
+}
+
+local Style = {}
+
+--[=[
+	@within Plasma
+	@function useStyle
+	@tag style
+
+	Returns the current style information, with styles that are set more recently in the tree overriding styles that
+	were set further up. In this way, styles cascade downwards, similar to CSS.
+]=]
+function Style.get()
+	return Runtime.useContext(ContextKey) or defaultStyle
+end
+
+--[=[
+	@within Plasma
+	@function setStyle
+	@tag style
+	@param styleFragment {[string]: any} -- A dictionary of style information
+
+	Defines style for any subsequent calls in this scope. Merges with any existing styles.
+]=]
+function Style.set(styleFragment)
+	local existing = Runtime.useContext(ContextKey) or defaultStyle
+	local newStyle = table.clone(existing)
+
+	for key, value in pairs(styleFragment) do
+		newStyle[key] = value
+	end
+
+	Runtime.provideContext(ContextKey, newStyle)
+end
+
+return Style
+]]></ProtectedString>
+								<string name="ScriptGuid">{38462F9A-70AF-4961-93D2-5BA62C489E99}</string>
+								<BinaryString name="AttributesSerialize"></BinaryString>
+								<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+								<bool name="DefinesCapabilities">false</bool>
+								<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+								<string name="Name">Style</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"></BinaryString>
+								<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000eb4</UniqueId>
+							</Properties>
+						</Item>
+						<Item class="ModuleScript" referent="RBX05CB1906AE954058923FAD1FA17C112E">
+							<Properties>
+								<Content name="LinkedSource"><null></null></Content>
+								<ProtectedString name="Source"><![CDATA[local RunService = game:GetService("RunService")
+local CollectionService = game:GetService("CollectionService")
+local function applyLayout(container, layout)
+	local axisName = container:GetAttribute("axis") or "XY"
+	local axis = Enum.AutomaticSize[axisName]
+
+	local maxSize = container:GetAttribute("maxSize") or Vector2.new(math.huge, math.huge)
+	local minSize = container:GetAttribute("minSize") or Vector2.new(0, 0)
+
+	if typeof(maxSize) == "UDim2" then
+		if container.Parent == nil then
+			maxSize = Vector2.new(0, 0)
+		else
+			local parentSize = container.Parent.AbsoluteSize
+
+			maxSize = Vector2.new(
+				(parentSize.X / maxSize.X.Scale) + maxSize.X.Offset,
+				(parentSize.Y / maxSize.Y.Scale) + maxSize.Y.Offset
+			)
+		end
+	end
+
+	local padX = 0
+	local padY = 0
+	local padding = container:FindFirstChildOfClass("UIPadding")
+	if padding ~= nil then
+		padX = padding.PaddingLeft.Offset + padding.PaddingRight.Offset
+		padY = padding.PaddingTop.Offset + padding.PaddingBottom.Offset
+	end
+
+	local contentSize
+
+	if layout then
+		contentSize = layout.AbsoluteContentSize
+	elseif container:IsA("TextButton") or container:IsA("TextLabel") then
+		contentSize = container.TextBounds
+	else
+		contentSize = Vector2.new(0, 0)
+
+		for _, child in container:GetChildren() do
+			if child:IsA("GuiObject") then
+				local farX = child.Position.X.Offset + child.Size.X.Offset
+				local farY = child.Position.Y.Offset + child.Size.Y.Offset
+
+				contentSize = Vector2.new(math.max(contentSize.X, farX), math.max(contentSize.Y, farY))
+			end
+		end
+	end
+
+	local baseX = math.max(contentSize.X + padX, minSize.X)
+	local baseY = math.max(contentSize.Y + padY, minSize.Y)
+
+	local x, y
+	local xClamped, yClamped
+
+	if axis == Enum.AutomaticSize.XY then
+		x = UDim.new(0, baseX)
+		y = UDim.new(0, baseY)
+		xClamped = UDim.new(0, math.min(baseX, maxSize.X))
+		yClamped = UDim.new(0, math.min(baseY, maxSize.Y))
+	elseif axis == Enum.AutomaticSize.X then
+		x = UDim.new(0, baseX)
+		y = container.Size.Y
+		xClamped = UDim.new(0, math.min(baseX, maxSize.X))
+		yClamped = container.Size.Y
+	else
+		x = container.Size.X
+		y = UDim.new(0, baseY)
+		xClamped = container.Size.X
+		yClamped = UDim.new(0, math.min(baseY, maxSize.Y))
+	end
+
+	if container:IsA("ScrollingFrame") then
+		local canvasX = x
+		local canvasY = y
+
+		if x.Offset > xClamped.Offset then
+			canvasY -= UDim.new(0, container.ScrollBarThickness)
+		end
+		if y.Offset > yClamped.Offset then
+			canvasX -= UDim.new(0, container.ScrollBarThickness)
+		end
+
+		container.CanvasSize = UDim2.new(canvasX, canvasY)
+	end
+
+	container.Size = UDim2.new(xClamped, yClamped)
+end
+
+local function trackParentSize(instance, callback)
+	local parent = nil
+	local connection = nil
+
+	local function parentChanged(newParent)
+		if parent == newParent then
+			return
+		end
+
+		if connection ~= nil then
+			connection:Disconnect()
+			connection = nil
+		end
+
+		if newParent == nil then
+			return
+		end
+
+		connection = newParent:GetPropertyChangedSignal("AbsoluteSize"):Connect(callback)
+		parent = newParent
+	end
+
+	parentChanged(instance.Parent)
+
+	instance:GetPropertyChangedSignal("Parent"):Connect(function()
+		parentChanged(instance.Parent)
+	end)
+end
+
+local defaultOptions = {}
+
+--[=[
+	@within Plasma
+	@function automaticSize
+	@param container GuiObject -- The instance to apply automatic sizing to.
+	@param options { axis: Enum.AutomaticSize, maxSize: Vector2 | UDim2, minSize: Vector2 } | nil
+	@tag utilities
+
+	Applies padding-aware automatic size to the given GUI instance. This function sets up events to listen to further changes, so
+	should only be called once per object.
+
+	Also supports ScrollingFrames by correctly clamping actual and canvas sizes.
+
+	:::note
+	If this function is called from the server, if `maxSize` is a UDim2, because of differing screen sizes, it instead
+	configures the instance to be compatible with the [Plasma.hydrateAutomaticSize] function, adding the
+	CollectionService tag and other attributes.
+
+	You must also call `hydrateAutomaticSize` once on the client for this to work.
+	:::
+
+	::warning
+	There is currently no way to undo this other than destroying the instance. Once automatic sizing has been applied,
+	it is always applied to that instance.
+	:::
+]=]
+local function automaticSize(container, options)
+	options = options or defaultOptions
+
+	if options.maxSize then
+		container:SetAttribute("maxSize", options.maxSize)
+	end
+
+	if options.minSize then
+		container:SetAttribute("minSize", options.minSize)
+	end
+
+	if options.axis then
+		container:SetAttribute("axis", options.axis.Name)
+	end
+
+	if not RunService:IsClient() and typeof(container:GetAttribute("maxSize") or nil) == "UDim2" then
+		CollectionService:AddTag(container, "PlasmaAutomaticSize")
+
+		return
+	end
+
+	local layout = container:FindFirstChildWhichIsA("UIGridStyleLayout")
+
+	applyLayout(container, layout)
+
+	if typeof(container:GetAttribute("maxSize") or nil) == "UDim2" then
+		trackParentSize(container, function()
+			applyLayout(container, layout)
+		end)
+	end
+
+	if layout then
+		layout:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(function()
+			applyLayout(container, layout)
+		end)
+	elseif container:IsA("TextLabel") or container:IsA("TextButton") then
+		container:GetPropertyChangedSignal("TextBounds"):Connect(function()
+			applyLayout(container)
+		end)
+	else
+		local function connect(child)
+			if child:IsA("GuiObject") then
+				child:GetPropertyChangedSignal("Size"):Connect(function()
+					applyLayout(container)
+				end)
+			end
+		end
+
+		for _, child in container:GetChildren() do
+			connect(child)
+		end
+
+		container.ChildAdded:Connect(function(child)
+			applyLayout(container)
+
+			connect(child)
+		end)
+
+		container.ChildRemoved:Connect(function()
+			applyLayout(container)
+		end)
+	end
+
+	container:GetAttributeChangedSignal("maxSize"):Connect(function()
+		applyLayout(container, layout)
+	end)
+
+	container:GetAttributeChangedSignal("minSize"):Connect(function()
+		applyLayout(container, layout)
+	end)
+end
+
+return automaticSize
+]]></ProtectedString>
+								<string name="ScriptGuid">{1DE5C6C6-2E69-4BB0-BEB3-196496929C15}</string>
+								<BinaryString name="AttributesSerialize"></BinaryString>
+								<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+								<bool name="DefinesCapabilities">false</bool>
+								<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+								<string name="Name">automaticSize</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"></BinaryString>
+								<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000eb5</UniqueId>
+							</Properties>
+						</Item>
+						<Item class="ModuleScript" referent="RBX5A6DE66AD8414F81858875A50BD2FDD0">
+							<Properties>
+								<Content name="LinkedSource"><null></null></Content>
+								<ProtectedString name="Source"><![CDATA[local Runtime = require(script.Parent.Runtime)
+
+--[=[
+	@within Plasma
+	@function create
+	@param className string -- The class name of the Instance to create
+	@param props CreateProps
+	@return Instance -- The created instance
+	@tag utilities
+
+	A function that creates an Instance tree.
+
+	CreateProps is a table:
+	- String keys are interpreted as properties to set
+	- Numerical keys are interpreted as children
+	- Function values are interpreted as event handlers
+	- Table keys can be used to get references to instances deep in the tree, the value becomes the key in the table
+
+	This function doesn't do anything special. It just creates an instance.
+
+	```lua
+	create("Frame", {
+		BackgroundTransparency = 1,
+		Name = "Checkbox",
+
+		create("TextButton", {
+			BackgroundColor3 = Color3.fromRGB(54, 54, 54),
+			Size = UDim2.new(0, 30, 0, 30),
+
+			create("UICorner", {
+				CornerRadius = UDim.new(0, 8),
+			}),
+
+			Activated = function()
+				setClicked(true)
+			end,
+		}),
+	})
+	```
+
+	Getting references to instances deep in a tree:
+
+	```lua
+	local ref = {}
+
+	create("Frame", {
+		create("TextButton", {
+			[ref] = "button",
+			Text = "hi"
+		})
+	})
+
+	print(ref.button.Text) --> hi
+	```
+]=]
+
+local GUI_BASE_2D = {
+	"CanvasGroup",
+	"Frame",
+	"ImageLabel",
+	"ScrollingFrame",
+	"TextLabel",
+	"TextButton",
+	"ViewportFrame",
+	"TextBox",
+	"VideoFrame",
+	"ScreenGui",
+	"BillboardGui",
+	"SurfaceGui",
+}
+
+local function create(className, props)
+	props = props or {}
+
+	local eventCallback = Runtime.useEventCallback()
+
+	local instance = Instance.new(className)
+
+	if props["AutoLocalize"] == nil and table.find(GUI_BASE_2D, className) then
+		props["AutoLocalize"] = false
+	end
+
+	for key, value in pairs(props) do
+		if type(value) == "function" then
+			if eventCallback then
+				eventCallback(instance, key, value)
+			else
+				instance[key]:Connect(value)
+			end
+		elseif type(key) == "number" then
+			value.Parent = instance
+		elseif type(key) == "table" then
+			key[value] = instance
+
+			if props.Name == nil then
+				instance.Name = value
+			end
+		else
+			instance[key] = value
+		end
+	end
+
+	return instance
+end
+
+return create
+]]></ProtectedString>
+								<string name="ScriptGuid">{1E8DC151-A580-4FE0-9AED-1396FF6B620C}</string>
+								<BinaryString name="AttributesSerialize"></BinaryString>
+								<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+								<bool name="DefinesCapabilities">false</bool>
+								<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+								<string name="Name">create</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"></BinaryString>
+								<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000eb6</UniqueId>
+							</Properties>
+						</Item>
+						<Item class="ModuleScript" referent="RBX3F9ED2DB798446E49F77CE46C62AD2B5">
+							<Properties>
+								<Content name="LinkedSource"><null></null></Content>
+								<ProtectedString name="Source"><![CDATA[local Runtime = require(script.Parent.Runtime)
+
+local function createConnect()
+	local eventCallback = Runtime.useEventCallback()
+
+	return function(instance, eventName, handler)
+		if eventCallback then
+			return eventCallback(instance, eventName, handler)
+		else
+			return instance[eventName]:Connect(handler)
+		end
+	end
+end
+
+return createConnect
+]]></ProtectedString>
+								<string name="ScriptGuid">{6DAC25B9-4CEE-47F3-A1E2-FF8C20003C04}</string>
+								<BinaryString name="AttributesSerialize"></BinaryString>
+								<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+								<bool name="DefinesCapabilities">false</bool>
+								<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+								<string name="Name">createConnect</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"></BinaryString>
+								<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000eb7</UniqueId>
+							</Properties>
+						</Item>
+						<Item class="ModuleScript" referent="RBXF6711A45CD9E40B9922D017315941D05">
+							<Properties>
+								<Content name="LinkedSource"><null></null></Content>
+								<ProtectedString name="Source"><![CDATA[local CollectionService = game:GetService("CollectionService")
+local automaticSize = require(script.Parent.automaticSize)
+
+--[=[
+	Applies automatic sizing to any current or future instances in the DataModel that are tagged with
+	`"PlasmaAutomaticSize"`. Attributes `axis` (string) and `maxSize` (UDim2 or Vector2) are allowed.
+
+	@within Plasma
+	@tag utilities
+	@client
+	@return RBXScriptConnection
+]=]
+local function hydrateAutomaticSize()
+	for _, instance in CollectionService:GetTagged("PlasmaAutomaticSize") do
+		automaticSize(instance)
+	end
+
+	return CollectionService:GetInstanceAddedSignal("PlasmaAutomaticSize"):Connect(function(instance)
+		task.defer(automaticSize, instance) -- instance added signal fires before children are added
+	end)
+end
+
+return hydrateAutomaticSize
+]]></ProtectedString>
+								<string name="ScriptGuid">{53BA0C9D-0A3F-4298-84D5-983ABFB65BBE}</string>
+								<BinaryString name="AttributesSerialize"></BinaryString>
+								<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+								<bool name="DefinesCapabilities">false</bool>
+								<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+								<string name="Name">hydrateAutomaticSize</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"></BinaryString>
+								<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000eb8</UniqueId>
+							</Properties>
+						</Item>
+						<Item class="Folder" referent="RBXE111A80864124C529D96CCEEC26EE363">
+							<Properties>
+								<BinaryString name="AttributesSerialize"></BinaryString>
+								<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+								<bool name="DefinesCapabilities">false</bool>
+								<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+								<string name="Name">widgets</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"></BinaryString>
+								<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000eb9</UniqueId>
+							</Properties>
+							<Item class="ModuleScript" referent="RBX9E1B1E56FE8A41E6A0C43060F29235DF">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[--[=[
+	@within Plasma
+	@function arrow
+	@tag widgets
+	@param from Vector3 | CFrame | BasePart
+	@param to Vector3 | BasePart | nil
+	@param color Color3? -- Optional color. Random if not specified.
+
+	- `arrow(from: Vector3, to: Vector3)` -> Creates an arrow between `from` and `to`
+	- `arrow(point: Vector3)` -> Creates an arrow pointing at `point`
+	- `arrow(cframe: CFrame)` -> Creates an arrow with its point at the CFrame position facing the CFrame LookVector
+	- `arrow(part: BasePart)` -> Arrow represents the Part's CFrame
+	- `arrow(fromPart: BasePart, toPart: BasePart)` -> Arrow between the two parts
+
+	![Arrows](https://i.eryn.io/2150/arrows.png)
+
+	```lua
+	Plasma.arrow(Vector3.new(0, 0, 0))
+	Plasma.arrow(Vector3.new(5, 5, 5), Vector3.new(10, 10, 10))
+	```
+]=]
+
+local function arrow(name, container, scale, color, zindex)
+	local body = Instance.new("CylinderHandleAdornment")
+
+	body.Name = name .. "Body"
+	body.Color3 = color
+	body.Radius = 0.15
+	body.Adornee = workspace.Terrain
+	body.Transparency = 0
+	body.Radius = 0.15 * scale
+	body.Transparency = 0
+	body.AlwaysOnTop = true
+	body.ZIndex = zindex
+
+	body.Parent = container
+
+	local point = Instance.new("ConeHandleAdornment")
+
+	scale = scale == 1 and 1 or 1.4
+
+	point.Name = name .. "Point"
+	point.Color3 = color
+	point.Radius = 0.5 * scale
+	point.Transparency = 0
+	point.Adornee = workspace.Terrain
+	point.Height = 2 * scale
+	point.AlwaysOnTop = true
+	point.ZIndex = zindex
+
+	point.Parent = container
+end
+
+local function update(body, point, from, to, scale)
+	body.Height = (from - to).magnitude - 2
+	body.CFrame = CFrame.lookAt(((from + to) / 2) - ((to - from).unit * 1), to)
+	point.CFrame = CFrame.lookAt((CFrame.lookAt(to, from) * CFrame.new(0, 0, -2 - ((scale - 1) / 2))).p, to)
+end
+
+local Runtime = require(script.Parent.Parent.Runtime)
+
+return Runtime.widget(function(from, to, color)
+	local fallbackColor = Runtime.useState(BrickColor.random().Color)
+	color = color or fallbackColor
+
+	if typeof(from) == "Instance" then
+		if from:IsA("BasePart") then
+			from = from.CFrame
+		elseif from:IsA("Attachment") then
+			from = from.WorldCFrame
+		end
+
+		if to ~= nil then
+			from = from.p
+		end
+	end
+
+	if typeof(to) == "Instance" then
+		if to:IsA("BasePart") then
+			to = to.Position
+		elseif to:IsA("Attachment") then
+			to = to.WorldPosition
+		end
+	end
+
+	if typeof(from) == "CFrame" and to == nil then
+		local look = from.lookVector
+		to = from.p
+		from = to + (look * -10)
+	end
+
+	if to == nil then
+		to = from
+		from = to + Vector3.new(0, 10, 0)
+	end
+
+	assert(typeof(from) == "Vector3" and typeof(to) == "Vector3", "Passed parameters are of invalid types")
+
+	local refs = Runtime.useInstance(function(ref)
+		local container = Instance.new("Folder")
+		container.Name = "Arrow"
+
+		ref.folder = container
+
+		arrow("front", container, 1, color, 1)
+		arrow("back", container, 2, Color3.new(0, 0, 0), -1)
+
+		return container
+	end)
+
+	local folder = refs.folder
+
+	update(folder.frontBody, folder.frontPoint, from, to, 1)
+	update(folder.backBody, folder.backPoint, from, to, 1.4)
+
+	folder.frontBody.Color3 = color
+	folder.frontPoint.Color3 = color
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{EA7E9F61-8645-4290-92BF-BB5367680295}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">arrow</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000eba</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBXD85449E937C2491F9024B3E925571089">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[--[=[
+	@within Plasma
+	@function blur
+	@tag widgets
+	@param size number -- The size of the blur
+
+	A blur effect in the world. Created in Lighting.
+]=]
+
+local Lighting = game:GetService("Lighting")
+local Runtime = require(script.Parent.Parent.Runtime)
+local portal = require(script.Parent.portal)
+
+return function(size)
+	portal(Lighting, function()
+		Runtime.useInstance(function()
+			local blur = Instance.new("BlurEffect")
+			blur.Size = size
+			return blur
+		end)
+	end)
+end
+]]></ProtectedString>
+									<string name="ScriptGuid">{FE5E0BB8-18D4-4A74-818F-CA2380C53F88}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">blur</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ebb</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBXE6F7670C5B6F4F8BA63DFBC6CCE7637D">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[--[=[
+	@within Plasma
+	@function button
+	@tag widgets
+	@param label string -- The label for the checkbox
+	@return ButtonWidgetHandle
+
+	A text button.
+
+	Returns a widget handle, which has the field:
+
+	- `clicked`, a function you can call to check if the checkbox was clicked this frame
+
+	![A button](https://i.eryn.io/2150/RobloxStudioBeta-iwRM0RMx.png)
+
+	```lua
+	Plasma.window("Button", function()
+		if Plasma.button("button text"):clicked() then
+			print("clicked!")
+		end
+	end)
+	```
+]=]
+
+local Runtime = require(script.Parent.Parent.Runtime)
+local Style = require(script.Parent.Parent.Style)
+local create = require(script.Parent.Parent.create)
+
+return Runtime.widget(function(text)
+	local clicked, setClicked = Runtime.useState(false)
+	local refs = Runtime.useInstance(function(ref)
+		local style = Style.get()
+
+		return create("TextButton", {
+			[ref] = "button",
+			BackgroundColor3 = style.bg3,
+			BorderSizePixel = 0,
+			Font = Enum.Font.Gotham,
+			TextColor3 = style.textColor,
+			AutomaticSize = Enum.AutomaticSize.XY,
+			TextSize = 14,
+
+			create("UIPadding", {
+				PaddingLeft = UDim.new(0, 5),
+				PaddingRight = UDim.new(0, 5),
+				PaddingTop = UDim.new(0, 5),
+				PaddingBottom = UDim.new(0, 5),
+			}),
+
+			create("UICorner"),
+
+			Activated = function()
+				setClicked(true)
+			end,
+		})
+	end)
+
+	local instance = refs.button
+
+	instance.Text = text
+
+	local handle = {
+		clicked = function()
+			if clicked then
+				setClicked(false)
+				return true
+			end
+
+			return false
+		end,
+	}
+
+	return handle
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{4DAAAE0F-F393-4548-8656-8589F0AE1D07}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">button</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ebc</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBX538A9F74C55941DABDAE19057AAE73DB">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[--[=[
+	@within Plasma
+	@function checkbox
+	@tag widgets
+	@param label string -- The label for the checkbox
+	@param options {disabled: boolean, checked: boolean}
+	@return CheckboxWidgetHandle
+
+	A checkbox. A checkbox may either be controlled or uncontrolled.
+
+	By passing the `checked` field in `options`, you make the checkbox controlled. Controlling the checkbox means that
+	the checked state is controlled by your code. Otherwise, the controlled state is controlled by the widget itself.
+
+	Returns a widget handle, which has the fields:
+
+	- `checked`, a function you can call to check if the checkbox is checked
+	- `clicked`, a function you can call to check if the checkbox was clicked this frame
+
+	![Checkboxes](https://i.eryn.io/2150/9Yg31gc8.png)
+
+	```lua
+	Plasma.window("Checkboxes", function()
+		if Plasma.checkbox("Controlled checkbox", {
+			checked = checked,
+		}):clicked() then
+			checked = not checked
+		end
+
+		Plasma.checkbox("Disabled checkbox", {
+			checked = checked,
+			disabled = true,
+		})
+
+		Plasma.checkbox("Uncontrolled checkbox")
+	end)
+	```
+]=]
+
+local Runtime = require(script.Parent.Parent.Runtime)
+local create = require(script.Parent.Parent.create)
+
+return Runtime.widget(function(text, options)
+	options = options or {}
+
+	local checked, setChecked = Runtime.useState(false)
+	local clicked, setClicked = Runtime.useState(false)
+
+	local refs = Runtime.useInstance(function(ref)
+		local Checkbox = create("Frame", {
+			[ref] = "checkbox",
+			BackgroundTransparency = 1,
+			Name = "Checkbox",
+			Size = UDim2.new(0, 20, 0, 20),
+			AutomaticSize = Enum.AutomaticSize.X,
+
+			create("TextButton", {
+				BackgroundColor3 = Color3.fromRGB(54, 54, 54),
+				BorderSizePixel = 0,
+				Font = Enum.Font.GothamBold,
+				Size = UDim2.new(0, 20, 0, 20),
+				TextColor3 = Color3.fromRGB(153, 153, 153),
+				TextSize = 16,
+
+				create("UICorner", {
+					CornerRadius = UDim.new(0, 8),
+				}),
+
+				Activated = function()
+					setClicked(true)
+					setChecked(function(currentlyChecked)
+						return not currentlyChecked
+					end)
+				end,
+			}),
+
+			create("TextLabel", {
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				Font = Enum.Font.GothamMedium,
+				TextColor3 = Color3.fromRGB(203, 203, 203),
+				TextSize = 14,
+				AutomaticSize = Enum.AutomaticSize.X,
+				RichText = true,
+			}),
+
+			create("UIListLayout", {
+				FillDirection = Enum.FillDirection.Horizontal,
+				Padding = UDim.new(0, 10),
+				SortOrder = Enum.SortOrder.LayoutOrder,
+				VerticalAlignment = Enum.VerticalAlignment.Center,
+			}),
+		})
+
+		return Checkbox
+	end)
+
+	local instance = refs.checkbox
+
+	instance.TextLabel.Text = text
+	instance.TextButton.AutoButtonColor = not options.disabled
+
+	Runtime.useEffect(function()
+		local isChecked
+		if options.checked ~= nil then
+			isChecked = options.checked
+		else
+			isChecked = checked
+		end
+
+		instance.TextButton.Text = isChecked and "✓" or ""
+	end, options.checked, checked)
+
+	Runtime.useEffect(function()
+		instance.TextButton.BackgroundColor3 = options.disabled and Color3.fromRGB(112, 112, 112)
+			or Color3.fromRGB(54, 54, 54)
+	end, options.disabled)
+
+	local handle = {
+		checked = function()
+			if options.checked or checked then
+				return true
+			end
+
+			return false
+		end,
+		clicked = function()
+			if clicked then
+				setClicked(false)
+				return true
+			end
+
+			return false
+		end,
+	}
+
+	return handle
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{CAE0F375-31A1-4795-B643-F91BAD5CF6BE}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">checkbox</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ebd</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBXB177A5DEE8584648AC03F79126ACE864">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[local Runtime = require(script.Parent.Parent.Runtime)
+local create = require(script.Parent.Parent.create)
+
+return Runtime.widget(function(text)
+	local refs = Runtime.useInstance(function(ref)
+		return create("Frame", {
+			[ref] = "error",
+			BackgroundTransparency = 0,
+			BackgroundColor3 = Color3.fromRGB(231, 76, 60),
+			Name = "Error",
+			AutomaticSize = Enum.AutomaticSize.XY,
+
+			create("UICorner"),
+
+			create("UIPadding", {
+				PaddingLeft = UDim.new(0, 10),
+				PaddingRight = UDim.new(0, 10),
+				PaddingTop = UDim.new(0, 10),
+			}),
+
+			create("UIListLayout", {
+				Padding = UDim.new(0, 10),
+			}),
+
+			create("TextLabel", {
+				Font = Enum.Font.GothamBold,
+				BackgroundTransparency = 1,
+				TextColor3 = Color3.fromRGB(255, 255, 255),
+				TextSize = 20,
+				AutomaticSize = Enum.AutomaticSize.XY,
+				Text = "⚠️  An Error Occurred",
+			}),
+
+			create("TextLabel", {
+				Name = "error",
+				Font = Enum.Font.GothamMedium,
+				BackgroundTransparency = 1,
+				TextColor3 = Color3.fromRGB(255, 255, 255),
+				TextSize = 16,
+				LineHeight = 1.2,
+				AutomaticSize = Enum.AutomaticSize.XY,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				TextYAlignment = Enum.TextYAlignment.Top,
+			}),
+		})
+	end)
+
+	local instance = refs.error
+
+	instance.error.Text = text
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{3EFF9D23-FB7A-4597-9D08-F2F842928710}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">error</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ebe</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBX9BCA9BC5497344EEA7C0BE499B1ED21E">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[local Runtime = require(script.Parent.Parent.Runtime)
+local create = require(script.Parent.Parent.create)
+local Style = require(script.Parent.Parent.Style)
+
+--[=[
+	@within Plasma
+	@function heading
+	@param text string
+	@param options? {font: Font}
+	@tag widgets
+
+	Text, but bigger!
+]=]
+return Runtime.widget(function(text, options)
+	options = options or {}
+	local refs = Runtime.useInstance(function(ref)
+		local style = Style.get()
+
+		return create("TextLabel", {
+			[ref] = "heading",
+			BackgroundTransparency = 1,
+			Font = Enum.Font.GothamBold,
+			AutomaticSize = Enum.AutomaticSize.XY,
+			TextColor3 = style.mutedTextColor,
+			TextSize = 14,
+			RichText = true,
+		})
+	end)
+
+	local instance = refs.heading
+	instance.Text = text
+	instance.Font = options.font or Enum.Font.GothamBold
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{FF2B9DCA-906B-4CF4-A47E-A0431CBACBE7}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">heading</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ebf</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBX74292E11FE4A44AC9E8C3DD0E4C770CD">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[local Runtime = require(script.Parent.Parent.Runtime)
+local create = require(script.Parent.Parent.create)
+
+--[=[
+	@interface HighlightOptions
+	@within Plasma
+
+	.outlineColor?: Color3
+	.fillColor?: Color3
+	.fillTransparency?: number
+	.outlineTransparency?: number
+	.fillMode?: HighlightFillMode
+]=]
+
+--[=[
+	@within Plasma
+	@function highlight
+	@param adornee Instance
+	@param options? HighlightOptions
+
+
+	Creates a highlight over an instance with the specified options, using the Roblox [Highlight] instance
+]=]
+return Runtime.widget(function(adornee, options)
+	options = options or {}
+
+	local refs = Runtime.useInstance(function(ref)
+		return create("Highlight", {
+			[ref] = "highlight",
+		})
+	end)
+
+	refs.highlight.Adornee = adornee
+
+	Runtime.useEffect(function()
+		refs.highlight.OutlineColor = options.outlineColor or Color3.new(1, 1, 1)
+		refs.highlight.FillColor = options.fillColor or Color3.new(1, 0, 0)
+	end, options.fillColor, options.outlineColor)
+
+	refs.highlight.FillTransparency = options.fillTransparency or 0.5
+	refs.highlight.OutlineTransparency = options.outlineTransparency or 0
+	refs.highlight.DepthMode = options.depthMode or Enum.HighlightDepthMode.AlwaysOnTop
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{3BD15368-0B59-4795-8EC9-07812890F373}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">highlight</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ec0</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBX14395D2C18B549F0B26A1CFB3B5A3DE4">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[local Runtime = require(script.Parent.Parent.Runtime)
+local create = require(script.Parent.Parent.create)
+local Style = require(script.Parent.Parent.Style)
+local automaticSize = require(script.Parent.Parent.automaticSize)
+
+--[=[
+	@within Plasma
+	@function label
+	@param text string
+	@tag widgets
+
+	Text.
+]=]
+return Runtime.widget(function(text)
+	local refs = Runtime.useInstance(function(ref)
+		local style = Style.get()
+
+		create("TextLabel", {
+			[ref] = "label",
+			BackgroundTransparency = 1,
+			Font = Enum.Font.Gotham,
+			TextColor3 = style.textColor,
+			TextSize = 16,
+			RichText = true,
+		})
+
+		automaticSize(ref.label)
+
+		return ref.label
+	end)
+
+	refs.label.Text = text
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{28C8BB75-F36B-48A0-93D2-5B56BCF12B0B}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">label</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ec1</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBX5439F0DBB1854B59AB367A97F125411F">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[--[=[
+	@within Plasma
+	@function portal
+	@tag widgets
+	@param targetInstance Instance -- Where the portal goes to
+	@param children () -> () -- Children
+
+	The portal widget creates its children inside the specified `targetInstance`. For example, you could use this
+	to create lighting effects in Lighting as a widget:
+
+
+	```lua
+	return function(size)
+		portal(Lighting, function()
+			useInstance(function()
+				local blur = Instance.new("BlurEffect")
+				blur.Size = size
+				return blur
+			end)
+		end)
+	end
+	```
+]=]
+
+local Runtime = require(script.Parent.Parent.Runtime)
+
+return Runtime.widget(function(targetInstance, fn)
+	Runtime.useInstance(function()
+		return nil, targetInstance
+	end)
+
+	Runtime.scope(fn)
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{4AAD9E18-7041-41A7-A8A2-FD3C75F80580}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">portal</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ec2</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBXE0DFE83FFB7849AABAF05624F4903D1F">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[--[=[
+	@within Plasma
+	@function row
+	@tag widgets
+	@param options {padding: Vector2}
+	@param children () -> () -- Children
+
+	Lays out children horizontally
+]=]
+
+local Runtime = require(script.Parent.Parent.Runtime)
+local automaticSize = require(script.Parent.Parent.automaticSize)
+
+return Runtime.widget(function(options, fn)
+	if type(options) == "function" and fn == nil then
+		fn = options
+		options = {}
+	end
+
+	if options.padding then
+		if type(options.padding) == "number" then
+			options.padding = UDim.new(0, options.padding)
+		end
+	else
+		options.padding = UDim.new(0, 10)
+	end
+
+	local refs = Runtime.useInstance(function(ref)
+		local Frame = Instance.new("Frame")
+		Frame.BackgroundTransparency = 1
+		Frame.AutoLocalize = false
+
+		local UIListLayout = Instance.new("UIListLayout")
+		UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+		UIListLayout.FillDirection = Enum.FillDirection.Horizontal
+		UIListLayout.Padding = options.padding
+		UIListLayout.Parent = Frame
+
+		ref.frame = Frame
+
+		automaticSize(Frame)
+
+		return Frame
+	end)
+
+	local frame = refs.frame
+
+	frame.UIListLayout.HorizontalAlignment = options.alignment or Enum.HorizontalAlignment.Left
+	frame.UIListLayout.VerticalAlignment = options.verticalAlignment or Enum.VerticalAlignment.Top
+
+	Runtime.scope(fn)
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{A5FF3FFC-4533-41B6-BC52-431B5C142F0D}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">row</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ec3</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBXA27A81DA04A444CA8F6C5AE4E8EEE094">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[local UserInputService = game:GetService("UserInputService")
+
+local Runtime = require(script.Parent.Parent.Runtime)
+local Style = require(script.Parent.Parent.Style)
+local create = require(script.Parent.Parent.create)
+local createConnect = require(script.Parent.Parent.createConnect)
+
+return Runtime.widget(function(options)
+	if type(options) == "number" then
+		options = {
+			max = options,
+		}
+	end
+
+	local min = options.min or 0
+	local max = options.max or 1
+	local initial = options.initial or 0
+	local initPercent = (initial - min) / (max - min)
+	local percentageValue, setPercentageValue = Runtime.useState(initPercent)
+
+	local refs = Runtime.useInstance(function(ref)
+		local connect = createConnect()
+
+		local style = Style.get()
+
+		local connection
+
+		local frame = create("Frame", {
+			[ref] = "frame",
+			BackgroundTransparency = 1,
+			Size = UDim2.new(0, 200, 0, 30),
+
+			create("Frame", {
+				Name = "line",
+				Size = UDim2.new(1, 0, 0, 2),
+				BackgroundColor3 = style.mutedTextColor,
+				BorderSizePixel = 0,
+				Position = UDim2.new(0, 0, 0.5, 0),
+			}),
+
+			create("TextButton", {
+				Name = "dot",
+				[ref] = "dot",
+				Size = UDim2.new(0, 15, 0, 15),
+				AnchorPoint = Vector2.new(0.5, 0.5),
+				BackgroundColor3 = style.textColor,
+				Position = UDim2.new(0, 0, 0.5, 0),
+				Text = "",
+
+				create("UICorner", {
+					CornerRadius = UDim.new(1, 0),
+				}),
+
+				InputBegan = function(input)
+					if input.UserInputType ~= Enum.UserInputType.MouseButton1 then
+						return
+					end
+
+					if connection then
+						connection:Disconnect()
+					end
+
+					connection = connect(UserInputService, "InputChanged", function(moveInput)
+						if moveInput.UserInputType ~= Enum.UserInputType.MouseMovement then
+							return
+						end
+
+						local x = moveInput.Position.X
+
+						local maxPos = ref.frame.AbsoluteSize.X - ref.dot.AbsoluteSize.X
+						x -= ref.frame.AbsolutePosition.X + ref.dot.AbsoluteSize.X / 2
+						x = math.clamp(x, 0, maxPos)
+
+						local percent = x / maxPos
+
+						setPercentageValue(percent)
+					end)
+				end,
+
+				InputEnded = function(input)
+					if input.UserInputType ~= Enum.UserInputType.MouseButton1 then
+						return
+					end
+
+					if connection then
+						connection:Disconnect()
+						connection = nil
+					end
+				end,
+			}),
+		})
+
+		return frame
+	end)
+
+	local maxPos = refs.frame.AbsoluteSize.X - refs.frame.dot.AbsoluteSize.X
+	refs.frame.dot.Position = UDim2.new(0, percentageValue * maxPos + refs.frame.dot.AbsoluteSize.X / 2, 0.5, 0)
+
+	local value = percentageValue * (max - min) + min
+	return value
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{636748E0-04B1-4456-8848-23FFC043D8BB}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">slider</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ec4</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBX3E500819F3AE4FD88818DBB0202A71E7">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[local Runtime = require(script.Parent.Parent.Runtime)
+local create = require(script.Parent.Parent.create)
+
+--[=[
+	@within Plasma
+	@function space
+	@param size number
+
+	Blank space of a certain size.
+
+]=]
+return Runtime.widget(function(size)
+	local refs = Runtime.useInstance(function(ref)
+		return create("Frame", {
+			[ref] = "space",
+			BackgroundTransparency = 1,
+		})
+	end)
+
+	Runtime.useEffect(function()
+		refs.space.Size = UDim2.new(0, size, 0, size)
+	end, size)
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{3A608F5A-27DF-4B7F-B7F8-0C8E9F12F4A4}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">space</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ec5</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBX14D8519B29384C09B6150B3E3EF63D39">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[--[=[
+	@within Plasma
+	@function spinner
+	@tag widgets
+
+	A spinner widget, indicating loading.
+
+	![A spinner](https://i.eryn.io/2150/RobloxStudioBeta-sEyci8qy.png)
+]=]
+
+local RunService = game:GetService("RunService")
+local Runtime = require(script.Parent.Parent.Runtime)
+
+return Runtime.widget(function()
+	local refs = Runtime.useInstance(function(ref)
+		local Frame = Instance.new("Frame")
+		Frame.BackgroundTransparency = 1
+		Frame.Size = UDim2.new(0, 100, 0, 100)
+		Frame.AutoLocalize = false
+
+		local ImageLabel = Instance.new("ImageLabel")
+		ImageLabel.AnchorPoint = Vector2.new(0.5, 0.5)
+		ImageLabel.BackgroundTransparency = 1
+		ImageLabel.Image = "rbxassetid://2689141406"
+		ImageLabel.Position = UDim2.new(0.5, 0, 0.5, 0)
+		ImageLabel.Size = UDim2.new(0, 100, 0, 100)
+		ImageLabel.AutoLocalize = false
+		ImageLabel.Parent = Frame
+
+		ref.frame = Frame
+
+		return Frame
+	end)
+
+	Runtime.useEffect(function()
+		local connection = RunService.RenderStepped:Connect(function()
+			refs.frame.ImageLabel.Rotation = os.clock() * 100 % 360
+		end)
+
+		return function()
+			connection:Disconnect()
+		end
+	end)
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{E59E5C46-619B-4FB3-8B09-5ED2512ECD26}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">spinner</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ec6</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBX6506A4667F3E4308A7FA30381DDB4F2B">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[local RunService = game:GetService("RunService")
+local Runtime = require(script.Parent.Parent.Runtime)
+local Style = require(script.Parent.Parent.Style)
+local create = require(script.Parent.Parent.create)
+local automaticSize = require(script.Parent.Parent.automaticSize)
+
+local cell = Runtime.widget(function(text, font)
+	local clicked, setClicked = Runtime.useState(false)
+	local refs = Runtime.useInstance(function(ref)
+		local style = Style.get()
+
+		return create("TextButton", {
+			[ref] = "button",
+			BackgroundTransparency = 1,
+			Font = Enum.Font.Gotham,
+			AutomaticSize = Enum.AutomaticSize.XY,
+			TextColor3 = style.textColor,
+			TextSize = 16,
+			TextXAlignment = Enum.TextXAlignment.Left,
+			RichText = true,
+			AutoButtonColor = false,
+			Active = true,
+
+			Activated = function()
+				setClicked(true)
+			end,
+
+			create("UIPadding", {
+				PaddingBottom = UDim.new(0, 6),
+				PaddingLeft = UDim.new(0, 6),
+				PaddingRight = UDim.new(0, 6),
+				PaddingTop = UDim.new(0, 6),
+			}),
+		})
+	end)
+
+	refs.button.Font = font or Enum.Font.Gotham
+	refs.button.Text = text
+
+	return {
+		clicked = function()
+			if clicked then
+				setClicked(false)
+				return true
+			end
+
+			return false
+		end,
+	}
+end)
+
+local row = Runtime.widget(function(columns, darken, selectable, font)
+	local clicked, setClicked = Runtime.useState()
+	local hovering, setHovering = Runtime.useState(false)
+	local selected = columns.selected
+
+	local refs = Runtime.useInstance(function(ref)
+		return create("TextLabel", {
+			[ref] = "row",
+			BackgroundTransparency = if darken then 0.7 else 1,
+			BackgroundColor3 = Color3.fromRGB(0, 0, 0),
+			Text = "",
+			Active = false,
+
+			MouseEnter = function()
+				setHovering(true)
+			end,
+
+			MouseLeave = function()
+				setHovering(false)
+			end,
+		})
+	end)
+
+	refs.row.Active = selectable and not selected or false
+
+	local transparency = 1
+
+	if selected then
+		transparency = 0
+	elseif hovering and selectable then
+		transparency = 0.4
+	elseif darken then
+		transparency = 0.7
+	end
+
+	refs.row.BackgroundTransparency = transparency
+	refs.row.BackgroundColor3 = selected and Color3.fromHex("bd515c") or Color3.fromRGB(0, 0, 0)
+
+	for index, column in ipairs(columns) do
+		if type(column) == "function" then
+			Runtime.scope(column)
+		else
+			if cell(column, font):clicked() then
+				setClicked(index)
+			end
+		end
+	end
+
+	return {
+		clicked = function()
+			if clicked then
+				setClicked(nil)
+				return clicked
+			end
+
+			return nil
+		end,
+		hovered = function()
+			return hovering
+		end,
+	}
+end)
+
+--[=[
+	@within Plasma
+	@function table
+	@param items {{string}}
+	@param options {marginTop?: number, selectable?: boolean, font?: Font, headings?: boolean}
+	@tag widgets
+	@return TableWidgetHandle
+
+	A table widget. Items is a list of rows, with each row being a list of cells. 
+
+	Returns a widget handle, which has the fields:
+
+	- `selected`, a function you can call to check what row and cell were selected this frame, if any
+	- `selectedHeading`, a function you can call to check which heading was selected this frame, if any
+	- `hovered`, a function you can call to check what row is being hovered over
+
+	```lua
+	local items = {
+		{"cell one", "cell two"},
+		{"cell three", "cell four"}
+	}
+	```
+
+	![Table](https://i.eryn.io/2227/NEc4Dmnv.png)
+]=]
+return Runtime.widget(function(items, options)
+	options = options or {}
+
+	Runtime.useInstance(function(ref)
+		create("Frame", {
+			[ref] = "table",
+			BackgroundTransparency = 1,
+			Position = UDim2.new(0, 0, 0, options.marginTop or 0),
+
+			create("UITableLayout", {
+				[ref] = "layout",
+				SortOrder = Enum.SortOrder.LayoutOrder,
+			}),
+		})
+
+		local connection
+
+		connection = ref.table:GetPropertyChangedSignal("Parent"):Connect(function()
+			connection:Disconnect()
+			connection = nil
+
+			RunService.Heartbeat:Wait()
+			RunService.Heartbeat:Wait()
+
+			-- Wtf roblox
+
+			for _, child in ref.table:GetChildren() do
+				if child:IsA("GuiObject") then
+					child.Visible = false
+				end
+			end
+
+			local _ = ref.layout.AbsoluteContentSize
+
+			for _, child in ref.table:GetChildren() do
+				if child:IsA("GuiObject") then
+					child.Visible = true
+				end
+			end
+		end)
+
+		automaticSize(ref.table)
+
+		return ref.table
+	end)
+
+	local selected, setSelected = Runtime.useState()
+	local selectedHeading, setSelectedHeading = Runtime.useState()
+	local hovered
+
+	for i, columns in items do
+		local selectable = options.selectable
+		local font = options.font
+		local isHeading = options.headings and i == 1
+
+		if isHeading then
+			font = Enum.Font.GothamBold
+		end
+
+		local currentRow = row(columns, i % 2 == 1, selectable, font)
+		local clickedCell = currentRow:clicked()
+		if clickedCell then
+			if isHeading then
+				setSelectedHeading(clickedCell)
+			else
+				setSelected({ row = columns, cellIndex = clickedCell })
+			end
+		end
+
+		if currentRow:hovered() then
+			hovered = columns
+		end
+	end
+
+	return {
+		selectedHeading = function()
+			if selectedHeading then
+				setSelectedHeading(nil)
+				return selectedHeading
+			end
+
+			return nil
+		end,
+		selected = function()
+			if selected then
+				setSelected(nil)
+				return selected.row, selected.cellIndex
+			end
+
+			return nil
+		end,
+		hovered = function()
+			return hovered
+		end,
+	}
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{D01E28C8-53F0-494F-914B-F40888BAA08F}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">table</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ec7</UniqueId>
+								</Properties>
+							</Item>
+							<Item class="ModuleScript" referent="RBX272FBE9732084E439573CD62F5B173C1">
+								<Properties>
+									<Content name="LinkedSource"><null></null></Content>
+									<ProtectedString name="Source"><![CDATA[local GuiService = game:GetService("GuiService")
+local UserInputService = game:GetService("UserInputService")
+
+--[=[
+	@interface WindowOptions
+	@within Plasma
+
+	.title? string
+	.closable? boolean
+	.movable? boolean
+	.resizable? boolean
+]=]
+
+--[=[
+	@within Plasma
+	@function window
+	@param options string | WindowOptions -- The title of the window, or options
+	@param children () -> () -- Children
+	@tag widgets
+	@return WindowWidgetHandle
+
+	A window widget. Contains children.
+
+	- Closable
+	- Draggable
+	- Resizable
+
+	Returns a widget handle, which has the field:
+
+	- `closed`, a function you can call to check if the close button was clicked.
+
+	![Window with checkboxes](https://i.eryn.io/2150/TVkkOnxj.png)
+]=]
+
+local Runtime = require(script.Parent.Parent.Runtime)
+local createConnect = require(script.Parent.Parent.createConnect)
+local Style = require(script.Parent.Parent.Style)
+local automaticSize = require(script.Parent.Parent.automaticSize)
+local c = require(script.Parent.Parent.create)
+
+local MIN_SIZE = Vector2.new(50, 50)
+local MAX_SIZE = Vector2.new(1500, 500)
+
+return Runtime.widget(function(options, fn)
+	local closed, setClosed = Runtime.useState(false)
+
+	local refs = Runtime.useInstance(function(ref)
+		local style = Style.get()
+
+		local dragConnection
+
+		local connect = createConnect()
+
+		c("Frame", {
+			[ref] = "frame",
+			BackgroundColor3 = style.bg2,
+			Position = UDim2.new(0, 0, 0, 0),
+			Size = UDim2.new(0, 50, 0, 40),
+
+			c("UICorner", {}),
+
+			c("UIPadding", {
+				PaddingBottom = UDim.new(0, 20),
+				PaddingLeft = UDim.new(0, 20),
+				PaddingRight = UDim.new(0, 20),
+				PaddingTop = UDim.new(0, 20),
+			}),
+
+			c("UIStroke", {}),
+
+			c("TextButton", {
+				[ref] = "titleBar",
+				Size = UDim2.new(1, 0, 0, 0),
+				AutomaticSize = Enum.AutomaticSize.Y,
+				BackgroundTransparency = 1,
+				Text = "",
+
+				InputBegan = function(clickInput)
+					if not ref.titleBar.Active then
+						return
+					end
+					if clickInput.UserInputType ~= Enum.UserInputType.MouseButton1 then
+						return
+					end
+
+					local lastMousePosition = clickInput.Position
+
+					if
+						ref.frame.Parent:FindFirstChildWhichIsA("UIGridStyleLayout")
+						and not ref.frame.Parent:IsA("ScreenGui")
+					then
+						local beforePosition = ref.frame.AbsolutePosition
+
+						local screenGui = ref.frame:FindFirstAncestorOfClass("ScreenGui")
+
+						if screenGui.IgnoreGuiInset then
+							beforePosition += GuiService:GetGuiInset()
+						end
+
+						ref.frame.Parent = screenGui
+						ref.frame.Position = UDim2.new(0, beforePosition.X, 0, beforePosition.Y)
+					end
+
+					dragConnection = connect(UserInputService, "InputChanged", function(moveInput)
+						if moveInput.UserInputType ~= Enum.UserInputType.MouseMovement then
+							return
+						end
+
+						local delta = lastMousePosition - moveInput.Position
+
+						lastMousePosition = moveInput.Position
+
+						ref.frame.Position = ref.frame.Position - UDim2.new(0, delta.X, 0, delta.Y)
+					end)
+				end,
+
+				InputEnded = function(input)
+					if dragConnection and input.UserInputType == Enum.UserInputType.MouseButton1 then
+						dragConnection:Disconnect()
+						dragConnection = nil
+					end
+				end,
+
+				c("Frame", {
+					[ref] = "handle",
+					Position = UDim2.new(0, -5, 0, 0),
+
+					c("TextLabel", {
+						Text = "..",
+						Position = UDim2.new(0, 0, 0, 0),
+						BackgroundTransparency = 1,
+						TextSize = 16,
+						TextColor3 = style.mutedTextColor,
+					}),
+
+					c("TextLabel", {
+						Text = "..",
+						Position = UDim2.new(0, 0, 0, 7),
+						BackgroundTransparency = 1,
+						TextSize = 16,
+						TextColor3 = style.mutedTextColor,
+					}),
+
+					c("TextLabel", {
+						Text = "..",
+						Position = UDim2.new(0, 0, 0, -7),
+						BackgroundTransparency = 1,
+						TextSize = 16,
+						TextColor3 = style.mutedTextColor,
+					}),
+				}),
+
+				c("TextLabel", {
+					[ref] = "title",
+					BackgroundTransparency = 1,
+					Font = Enum.Font.GothamBold,
+					Size = UDim2.new(1, 0, 1, 0),
+					TextColor3 = style.mutedTextColor,
+					TextSize = 14,
+					TextXAlignment = Enum.TextXAlignment.Left,
+					TextYAlignment = Enum.TextYAlignment.Top,
+					TextTruncate = Enum.TextTruncate.AtEnd,
+				}),
+
+				c("TextButton", {
+					[ref] = "close",
+					BackgroundColor3 = Color3.fromHex("e74c3c"),
+					Size = UDim2.new(0, 14, 0, 14),
+					Text = "",
+					AnchorPoint = Vector2.new(0.5, 0),
+					Position = UDim2.new(1, -10, 0, 0),
+					TextColor3 = Color3.fromHex("#71190f"),
+					TextSize = 16,
+					Font = Enum.Font.Gotham,
+
+					MouseEnter = function()
+						ref.close.Text = "x"
+					end,
+
+					MouseLeave = function()
+						ref.close.Text = ""
+					end,
+
+					Activated = function()
+						setClosed(true)
+					end,
+
+					c("UICorner", {
+						CornerRadius = UDim.new(1, 0),
+					}),
+				}),
+			}),
+
+			c("ScrollingFrame", {
+				[ref] = "container",
+				BackgroundTransparency = 1,
+				VerticalScrollBarInset = Enum.ScrollBarInset.ScrollBar,
+				HorizontalScrollBarInset = Enum.ScrollBarInset.ScrollBar,
+				BorderSizePixel = 0,
+				ScrollBarThickness = 6,
+				Position = UDim2.new(0, 0, 0, 25),
+
+				c("UIListLayout", {
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					Padding = UDim.new(0, 10),
+				}),
+			}),
+
+			c("TextButton", {
+				[ref] = "resizeHandle",
+				Size = UDim2.new(0, 20, 0, 20),
+				Text = "≡",
+				Font = Enum.Font.Gotham,
+				TextSize = 16,
+				Rotation = -45,
+				BackgroundTransparency = 1,
+				TextColor3 = style.mutedTextColor,
+				Position = UDim2.new(1, 0, 1, 0),
+
+				InputBegan = function(clickInput)
+					if clickInput.UserInputType ~= Enum.UserInputType.MouseButton1 then
+						return
+					end
+
+					local initialMousePosition = clickInput.Position
+					local initialSize = ref.container.AbsoluteSize
+
+					dragConnection = connect(UserInputService, "InputChanged", function(moveInput)
+						if moveInput.UserInputType ~= Enum.UserInputType.MouseMovement then
+							return
+						end
+
+						local delta = Vector2.new(
+							(moveInput.Position.X - initialMousePosition.X),
+							(moveInput.Position.Y - initialMousePosition.Y)
+						)
+
+						local size = initialSize + delta
+
+						ref.container:SetAttribute(
+							"maxSize",
+							Vector2.new(math.max(MIN_SIZE.X, size.X), math.max(MIN_SIZE.Y, size.Y))
+						)
+					end)
+				end,
+
+				InputEnded = function(input)
+					if dragConnection and input.UserInputType == Enum.UserInputType.MouseButton1 then
+						dragConnection:Disconnect()
+						dragConnection = nil
+					end
+				end,
+			}),
+		})
+
+		automaticSize(ref.container)
+		automaticSize(ref.frame)
+
+		return ref.frame, ref.container
+	end)
+
+	if type(options) == "string" then
+		options = {
+			title = options,
+		}
+	end
+
+	local movable = if options.movable ~= nil then options.movable else true
+	local resizable = if options.resizable ~= nil then options.movable else true
+
+	refs.close.Visible = options.closable or false
+	refs.handle.Visible = movable
+	refs.titleBar.Active = movable
+	refs.resizeHandle.Visible = resizable
+
+	refs.title.Size = UDim2.new(1, if options.closable then -30 else 0, 1, 0)
+
+	local spaces = if movable then "  " else ""
+	refs.title.Text = options.title and spaces .. string.upper(options.title) or ""
+
+	Runtime.useEffect(function()
+		refs.container:SetAttribute("maxSize", options.maxSize or MAX_SIZE)
+	end, options.maxSize)
+
+	Runtime.useEffect(function()
+		refs.container:SetAttribute("minSize", options.minSize)
+	end, options.minSize)
+
+	Runtime.scope(fn)
+
+	local handle = {
+		closed = function()
+			if closed then
+				setClosed(false)
+				return true
+			end
+
+			return false
+		end,
+	}
+
+	return handle
+end)
+]]></ProtectedString>
+									<string name="ScriptGuid">{4FA2E8F2-1D08-4451-903F-EF69633F3949}</string>
+									<BinaryString name="AttributesSerialize"></BinaryString>
+									<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+									<bool name="DefinesCapabilities">false</bool>
+									<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+									<string name="Name">window</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"></BinaryString>
+									<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ec8</UniqueId>
+								</Properties>
+							</Item>
+						</Item>
+					</Item>
+				</Item>
+			</Item>
+			<Item class="ModuleScript" referent="RBX8130FC974D494B61A885F8B9FBD46DF9">
+				<Properties>
+					<Content name="LinkedSource"><null></null></Content>
+					<ProtectedString name="Source"><![CDATA[return require(script.Parent._Index["matter-ecs_plasma@0.4.4"]["plasma"])
+]]></ProtectedString>
+					<string name="ScriptGuid">{3DD1C92C-0BFC-4B8E-8C40-4FFF97B56579}</string>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+					<string name="Name">Plasma</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ee0</UniqueId>
+				</Properties>
 			</Item>
 		</Item>
 	</Item>
@@ -11963,24 +14686,6 @@ end
 			<BinaryString name="Tags"></BinaryString>
 			<UniqueId name="UniqueId">44308cb1913b0b6709311adc0000037b</UniqueId>
 		</Properties>
-		<Item class="Script" referent="5">
-			<Properties>
-				<ProtectedString name="Source"><![CDATA[print("Hello world, from server!")
-]]></ProtectedString>
-				<bool name="Disabled">false</bool>
-				<Content name="LinkedSource"><null></null></Content>
-				<token name="RunContext">0</token>
-				<string name="ScriptGuid">{BFB7A7DC-8611-406F-9225-0B2E748BB7CA}</string>
-				<BinaryString name="AttributesSerialize"></BinaryString>
-				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
-				<bool name="DefinesCapabilities">false</bool>
-				<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
-				<string name="Name">Server</string>
-				<int64 name="SourceAssetId">-1</int64>
-				<BinaryString name="Tags"></BinaryString>
-				<UniqueId name="UniqueId">44308cb1913b0b6709311adc00000398</UniqueId>
-			</Properties>
-		</Item>
 		<Item class="Folder" referent="RBXDF4523C6E0DC4FBF85AEFECF21C7F4BB">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
@@ -17847,6 +20552,72 @@ return Util
 							</Item>
 						</Item>
 					</Item>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Folder" referent="RBX5CB82038BCCD4AA38514250B76D94EC9">
+			<Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+				<string name="Name">Knit</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000ef1</UniqueId>
+			</Properties>
+			<Item class="Folder" referent="RBXC9C687D73D704E98985DDFD63E16AC00">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+					<string name="Name">Services</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000fb8</UniqueId>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="Script" referent="RBXC7797EA2B2724C3D84A2AC9346F116A7">
+			<Properties>
+				<ProtectedString name="Source"><![CDATA[print("Hello world, from server!")
+]]></ProtectedString>
+				<bool name="Disabled">false</bool>
+				<Content name="LinkedSource"><null></null></Content>
+				<token name="RunContext">0</token>
+				<string name="ScriptGuid">{C579AFD8-B91C-4C4A-83ED-46A99321E3AB}</string>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+				<string name="Name">Server</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000fba</UniqueId>
+			</Properties>
+			<Item class="Folder" referent="RBXE3993367F26C4BF891D91E94A09EF5D3">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+					<string name="Name">Knit</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000fbb</UniqueId>
+				</Properties>
+				<Item class="Folder" referent="RBXFA1B477AF508453189F42CE6BA0B7C11">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+						<string name="Name">Services</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"></BinaryString>
+						<UniqueId name="UniqueId">08e6e586cbb173320931d0cf00000fbc</UniqueId>
+					</Properties>
 				</Item>
 			</Item>
 		</Item>
