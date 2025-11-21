@@ -45,7 +45,7 @@ wally install
 - roblox-lua-promise (Promise library) - https://eryn.io/roblox-lua-promise/
 - Cmdr (command system) - https://github.com/evaera/Cmdr?tab=readme-ov-file
 - General Roblox developer docs: https://create.roblox.com/docs
-
+- Plasma (UI widget library for Roblox) - https://github.com/HylianBasement/plasma
 ## Resources
 - Rojo docs: https://rojo.space/docs
 - Wally: https://wally.run/
